@@ -2,7 +2,7 @@
 
 This application is a memory game using the React framework.
 
-Play the game here: https://ckalla87.github.io/React-Clicky-Game/
+Play the game here: https://tim-mountie-97390.herokuapp.com/
 
 1.    Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 
